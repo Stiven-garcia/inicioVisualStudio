@@ -1,0 +1,13 @@
+C:\Users\simbacuan\Documents\proyectos\inicio\calificaciones\src\Calificaciones\bin\Debug\netcoreapp3.1\Calificaciones.exe
+C:\Users\simbacuan\Documents\proyectos\inicio\calificaciones\src\Calificaciones\bin\Debug\netcoreapp3.1\Calificaciones.deps.json
+C:\Users\simbacuan\Documents\proyectos\inicio\calificaciones\src\Calificaciones\bin\Debug\netcoreapp3.1\Calificaciones.runtimeconfig.json
+C:\Users\simbacuan\Documents\proyectos\inicio\calificaciones\src\Calificaciones\bin\Debug\netcoreapp3.1\Calificaciones.runtimeconfig.dev.json
+C:\Users\simbacuan\Documents\proyectos\inicio\calificaciones\src\Calificaciones\bin\Debug\netcoreapp3.1\Calificaciones.dll
+C:\Users\simbacuan\Documents\proyectos\inicio\calificaciones\src\Calificaciones\bin\Debug\netcoreapp3.1\Calificaciones.pdb
+C:\Users\simbacuan\Documents\proyectos\inicio\calificaciones\src\Calificaciones\obj\Debug\netcoreapp3.1\Calificaciones.csprojAssemblyReference.cache
+C:\Users\simbacuan\Documents\proyectos\inicio\calificaciones\src\Calificaciones\obj\Debug\netcoreapp3.1\Calificaciones.AssemblyInfoInputs.cache
+C:\Users\simbacuan\Documents\proyectos\inicio\calificaciones\src\Calificaciones\obj\Debug\netcoreapp3.1\Calificaciones.AssemblyInfo.cs
+C:\Users\simbacuan\Documents\proyectos\inicio\calificaciones\src\Calificaciones\obj\Debug\netcoreapp3.1\Calificaciones.csproj.CoreCompileInputs.cache
+C:\Users\simbacuan\Documents\proyectos\inicio\calificaciones\src\Calificaciones\obj\Debug\netcoreapp3.1\Calificaciones.dll
+C:\Users\simbacuan\Documents\proyectos\inicio\calificaciones\src\Calificaciones\obj\Debug\netcoreapp3.1\Calificaciones.pdb
+C:\Users\simbacuan\Documents\proyectos\inicio\calificaciones\src\Calificaciones\obj\Debug\netcoreapp3.1\Calificaciones.genruntimeconfig.cache
